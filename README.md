@@ -1,6 +1,6 @@
 # Bashify
 
-Simple command line interface for Spotify
+Simple command line interface for Spotify Linux desktop application.
 
 
 ## Installation
