@@ -5,7 +5,7 @@ Simple command line interface for Spotify
 
 ## Installation
 
-```bash
+```
   # Clone the repository
   git clone https://github.com/KappaPrajd/bashify.git
 
@@ -19,7 +19,7 @@ Simple command line interface for Spotify
     
 ## Usage
 
-```bash
+```
 Usage: bashify [help] [play] [pause] [skip]
 Options:
   play [song] - Resume playing or play a song if passed
